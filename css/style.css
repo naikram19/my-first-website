@@ -13,3 +13,23 @@ p{
 ul{
   line-height: 40px;
 }
+body{
+  background-color: blanchedalmond;
+}
+p{
+  color: red;
+  line-height: 30px;
+  font-style: oblique;
+  
+}
+li{
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua;
+  line-height: 30px;
+}
+ul{
+  background-color: black;
+}
+ol{
+  background-color: black
+}
